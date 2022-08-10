@@ -1,0 +1,6 @@
+print("Welcome to the Addition Calculator")
+print("Please Enter Number1")
+a = input()
+print("Please Enter Number2")
+b = input()
+print("The Sum of Two Numbers is",int(a)+int(b))
